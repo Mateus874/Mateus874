@@ -15,9 +15,10 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=blue)](https://github.com/Mateus874)
 
 ##Habilidades
-[![JAVA](https://img.shields.io/badge/JAVA-100000?style=for-the-badge&logo=github&logoColor=blue)](https://github.com/Mateus874)
 
-JAVA | HTML | CSS | JavaScript | Jquery | Sql | TypeScript | Angular |
+Linguagem principal: JAVA 
+
+| HTML | CSS | JavaScript | Jquery | Sql | TypeScript | Angular |
 
 ##GitHub StatUs
 
